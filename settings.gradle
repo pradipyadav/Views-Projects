@@ -1,0 +1,1 @@
+include ':app', ':compoundviewjava', ':compoundviewkotlin', ':compoundviewjava', ':copmpoundvwjava', ':customvwjava', ':listviewjavaa', ':gridvwjava', ':listviewkotlin', ':customadapterkptlin', ':customviewkotlin', ':customviewkotlin', ':customviewnewkotlin'
